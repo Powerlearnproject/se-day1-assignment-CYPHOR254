@@ -40,9 +40,7 @@ Well-engineered software is easier to maintain and update, which is crucial for 
 **Career Development:**
 The discipline provides a structured career path for professionals in the technology industry, with clear skill progressions and specializations.
 **Industry Standards:** Software engineering helps establish and maintain industry standards, fostering consistency and best practices across the sector.
-
 # Identify and describe at least three key milestones in the evolution of software engineering.
-
 ### The NATO Software Engineering Conferences (1968-1969)
 - Marked the birth of software engineering as a discipline
 - Addressed the "software crisis" of the 1960s
@@ -90,7 +88,6 @@ _Key Activities: Installation, configuration, deployment._
 **7. Maintenance**
 Description: Provide ongoing support and updates to the software. Address bugs, implement new features, and ensure continued functionality.
 _Key Activities: Bug fixing, updates, performance monitoring._
-
 # Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 ## Waterfall Methodology:##
 _Linear and Sequential: The Waterfall model is a traditional, linear approach where each phase of the development process must be completed before the next one begins.
@@ -111,7 +108,6 @@ Well-Defined Projects: Projects with clear, unchanging requirements, such as reg
 Shorter Projects: Projects with fixed scope and timelines where requirements are unlikely to evolve.
 **_Example
 Developing a Government Compliance System: The requirements are fixed, and adherence to regulations is critical. A structured approach ensures all regulatory needs are met before moving to the next phase._**
-
 
 ### Agile Methodology
 _Iterative and Incremental: Agile is an iterative approach that delivers small, workable pieces of software in short cycles (sprints). Requirements and solutions evolve through collaboration._
