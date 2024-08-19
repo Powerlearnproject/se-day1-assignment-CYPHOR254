@@ -266,7 +266,7 @@ Iterative Refinement: Prompts can be iteratively refined based on feedback to ac
 **Vague Prompt:**
 Prompt: _“Tell me about cars.”_
 **Improved Prompt:**
-Improved Prompt: “Describe the main differences between electric and gasoline cars in terms of environmental impact and cost of ownership.”
+Improved Prompt: _“Describe the main differences between electric and gasoline cars in terms of environmental impact and cost of ownership.”_
 **Explanation:**
 **Clarity**:
 Vague Prompt: The request is too broad, and the AI might provide general information about cars without focusing on specific aspects.
